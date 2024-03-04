@@ -9,7 +9,7 @@ class Student {
 }
 
 // Main class containing the program logic
-public class StudentHashMapExample {
+public class StudentHashMapSearch {
     public static void main(String[] args) {
         // Create a HashMap to store student IDs and names
         Map<Integer, Student> studentMap = new HashMap<>();
