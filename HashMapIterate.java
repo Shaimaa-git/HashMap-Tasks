@@ -6,7 +6,7 @@ class Student {
     String studentName;
 }
 // Main class containing the program logic
-public class StudentHashMapKeyExistence {
+public class StudentHashMapIterate {
     public static void main(String[] args) {
         // Create a HashMap to store student IDs and names
         Map<Integer, Student> studentMap = new HashMap<>();
